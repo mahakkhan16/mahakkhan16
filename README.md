@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,docker,kubernetes,aws,git,github,githubactions,terraform,postman,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,js,mysql,docker,kubernetes,aws,git,github,githubactions,terraform,postman,linux,vscode" />
 </p>
 
 <h1 align="center">Hi there, I'm Mahak Khan 👋</h1>
