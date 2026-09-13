@@ -53,7 +53,7 @@
 </td>
 <td>
 
-Hello! My name is **Mahak Khan**, and I am a BSIT graduate student. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in **JavaScript, React.js, Java, Spring Boot, and SQL**, focusing on building robust applications and continuously growing within the tech industry.
+Hello! My name is **Mahak Khan**, and I am a BSIT graduate student. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming.Focusing on building robust applications and continuously growing within the tech industry.
 
 </td>
 </tr>
